@@ -1,3 +1,3 @@
-###"C#" MVC egitimi kapsaminda yapiyorum
+### "C#" MVC egitimi kapsaminda yapiyorum
 ## _-_-_-_-_-_-_-_-_-
-#Mehmet Yılmaz
+# Mehmet Yılmaz
